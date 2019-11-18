@@ -30,11 +30,11 @@
 ----
 
 ### Software yang harus diunduh dan di-install
-  [Sublime](https://www.sublimetext.com/3)
+  [Sublime]( https://www.sublimetext.com/3)
   [Google Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=id) -->
   [XAMPP ] (https://www.apachefriends.org/download.html)
   [CodeIgniter] (https://codeigniter.com/download)
----
+ 
 
 ### Material
 
